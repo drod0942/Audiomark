@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Audiomark/static/css/main.1fe93986.css",
+    "main.js": "/Audiomark/static/js/main.13168079.js",
+    "index.html": "/Audiomark/index.html",
+    "main.1fe93986.css.map": "/Audiomark/static/css/main.1fe93986.css.map",
+    "main.13168079.js.map": "/Audiomark/static/js/main.13168079.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fe93986.css",
+    "static/js/main.13168079.js"
+  ]
+}
