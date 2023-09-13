@@ -13,7 +13,7 @@ function App() {
       <div className="App">
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<Home />}></Route>
+          <Route exact path="/Audiomark/" element={<Home />}></Route>
           <Route path="/create" element={<Create />}></Route>
           <Route path="/files/:id" element={<FileDetails />} />
           <Route path="*" element={<NotFound />} />
