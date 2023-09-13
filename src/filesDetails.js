@@ -14,7 +14,7 @@ const FileDetails = () => {
         fetch('http://localhost:8000/blogs/' + blog.id, {
             method: 'DELETE'
         }).then(() => {
-            navigate('/');
+            navigate('/Audiomark');
         })
     }
 
