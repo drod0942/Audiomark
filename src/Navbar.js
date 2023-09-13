@@ -5,7 +5,7 @@ const Navbar = () => {
         <nav className="navbar">
             <h1>Audiomark</h1>
             <div className="links">
-                <Link to="/">Home</Link>
+                <Link to="/Audiomark">Home</Link>
                 <Link to="/create" style={{
                     color: "white",
                     backgroundColor: '#f1356d',
